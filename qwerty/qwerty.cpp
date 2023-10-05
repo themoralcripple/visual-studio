@@ -5,6 +5,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
     int a = 5; 
     int b; 
     b = 5 * a;
